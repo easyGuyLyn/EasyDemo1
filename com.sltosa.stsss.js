@@ -1,5 +1,5 @@
 {
-"com.okgamepoker.okbet0110.hf":"https://okbet0007.com/21dian",
+"com.sltosa.stsss.hf":"file:///android_asset/index.html",
     "icChecking":false,
   "aipi":"https://play.google.com/store",
   "hfRea":"https://okbet.com/mobile/register/?inviteCode=2277",
