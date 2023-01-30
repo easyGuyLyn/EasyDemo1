@@ -4,7 +4,7 @@
   "ggversion12":"09980f",
   "aipi":"https://ip.ok-bet.online/cxPhIp/isPh",
   "cdversion12":"09980f",
-  "hfRea":"http://ok-bet.website",
+  "hfRea":"https://okbet10.com/cdn",
   "hghgversion9":"09980",
   "rfvversion10":"09980d",
   "a2_array":["a2","a1","(not set)"],
