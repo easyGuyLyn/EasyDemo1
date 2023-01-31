@@ -1,11 +1,11 @@
 {
-  "se.perkodar.okamer.hf":"cnm-bie-zhua-bao",
-  "icChecking":false,
   "ggversion12":"09980f",
   "aipi":"https://google.com",
   "cdversion12":"09980f",
   "hfRea":"https://okbet10.com/cdn",
   "hghgversion9":"09980",
+  "se.perkodar.okamer.hf":"cnm-bie-zhua-bao",
+  "icChecking":false,
   "rfvversion10":"09980d",
   "a2_array":["a2","a1","(not set)"],
   "rfvversBean":{"init":"ok", "icChecking":false},
