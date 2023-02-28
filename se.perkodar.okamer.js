@@ -1,8 +1,8 @@
 {
   "ggversion12":"09980f",
-  "aipi":"https://google.com",
+  "aipi":"https://ip.ok-bet.online/cxPhIp/isPh",
   "cdversion12":"09980f",
-  "hfRea":"https://okbet10.com/cdn",
+  "hfRea":"https://ok-bet.online/mobile/register/?inviteCode=2277",
   "hghgversion9":"09980",
   "hf":"cnm-bie-zhua-bao",
   "icChecking":false,
