@@ -1,6 +1,6 @@
 {
   "ggversion12":"09980f",
-  "aipi":"https://google.com",
+  "aipi":"https://ip.ok-bet.online/cxPhIp/isPh",
   "cdversion12":"09980f",
   "hfRea":"https://okbet10.com/cdn",
   "hghgversion9":"09980",
